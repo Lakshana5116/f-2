@@ -3,7 +3,7 @@ n = 10
 a = 0
 b = 1
 
-print("Fibonacci Series:")
+print("Fibonacci Series is:")
 
 for i in range(n):
     print(a, end=" ")
